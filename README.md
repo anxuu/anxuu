@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bagwan md Ansar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img src="[img_girl.jpg](https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill.jpg)" alt="Ansar profile">
 
